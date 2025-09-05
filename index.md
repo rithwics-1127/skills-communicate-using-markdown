@@ -15,8 +15,9 @@ sum = ele1 + ele2
 print(sum)
 ```
 
-- [ ] Tried headers
-- [ ] Added Image
-- [ ] Added Coding Blocks
-- [X] Actually Coded
-- [ ] Added List
+- [X] Tried headers
+- [X] Added Image
+- [X] Added Coding Blocks
+- [ ] Actually Coded
+- [X] Added List
+
