@@ -14,3 +14,9 @@ ele2 = 3
 sum = ele1 + ele2
 print(sum)
 ```
+
+- [ ] Tried headers
+- [ ] Added Image
+- [ ] Added Coding Blocks
+- [X] Actually Coded
+- [ ] Added List
