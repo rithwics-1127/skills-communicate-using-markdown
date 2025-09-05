@@ -5,3 +5,5 @@
 ##### Hello, my name is Rithwick (h5)
 ###### Hello, my name is Rithwick (h6)
 This commit was just to see the different sizes of headers. 
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
